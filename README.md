@@ -1,8 +1,4 @@
-# BSEngine-com-internal-storage
-Agradecimento:
-Obrigado DXGamer por ter feito git clone disso.
-Resumo:
-Isso foi feito por Matheus Silver e seu time.
-Eu não fiz nada, e nem criei nada nesse repositório. Provavelmente contém alguns bugs, use por sua conta e risco.
-Caso for usar, dê créditos ao Team Silver.
-@MatheusSilver
+# BSEngine-ok-friday
+Thanks to dxgamer for gitcloneing this, 
+this was recovered by him and I'll just translate 
+and fix some things
