@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Tutorial", "gf", [165, 0, 77], "SEXTOU!!"]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "week0",
+
+	"storyName": "OK Friday! FT Brunito e Cevs",
+	"weekBefore": "tutorial",
+	"weekName": "OK Friday! FT Brunito e Cevs",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"temcutscene": false,
+	"cutscenombre": "irineu"
+}
